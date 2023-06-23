@@ -1,2 +1,2 @@
-# Cwiczenia_17.06
-Tablice + instrukcje iteracyjne
+# Cwiczenia_17.06_tablice
+Tablice
